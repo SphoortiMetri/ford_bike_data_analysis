@@ -15,7 +15,7 @@ Based on information in this dataset, bay wheel's bikes usage is highest in the 
 Feature engineering from existing features to extract more information resulted in better analysis and understanding of the dataset. I focused on features influencing the increasing number of bike rides over time. I explored data visually in terms of univariate, bivariate and multivariate plots
 
 ## What do I need to install?
-NumPy
-pandas
-Matplotlib
-Seaborn
+- NumPy
+- pandas
+- Matplotlib
+- Seaborn
